@@ -3,13 +3,12 @@
 *.map
 *.d
 *.bak
-**/nbproject/private
+**/nbproject/private/
 **/nbproject/Makefile-*
 **/nbproject/Package-*
-**/.mhc_backup
-**/*.X/debug
-**/*.X/dist
-**/*.X/build
+**/*.X/debug/
+**/*.X/dist/
+**/*.X/build/
 doc/html/**/*
 asset.cache
 *.DS_Store
