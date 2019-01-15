@@ -3,12 +3,9 @@
 *.map
 *.d
 *.bak
-**/nbproject/private/
+**/nbproject/private
 **/nbproject/Makefile-*
 **/nbproject/Package-*
-**/*.X/debug/
-**/*.X/dist/
-**/*.X/build/
-doc/html/**/*
-asset.cache
-*.DS_Store
+**/debug
+**/dist
+**/build
